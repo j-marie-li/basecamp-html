@@ -1,0 +1,96 @@
+a {
+    color: #F2F7F7;
+  font-size: 20px;
+  font-family: Geneva;
+  display: block;
+  padding:0px 20px;
+  text-decoration: none;
+  line-height: 4em;
+  }
+ 
+  li{
+    float: right;
+    
+  }
+  ul{
+    margin:0px; /*eliminates white space between elements*/
+    background-color:rgb(109, 109, 109);
+    list-style-type: none;
+    padding:0.1px;
+    
+    
+    
+  }
+ div1{
+     display:block;
+     padding: 6rem;
+     background-color: rgb(142, 247, 221);
+     margin:8px 70px 80px 90px;
+     width:60px;
+     height: 60px;
+     border-radius: 25px;
+     float:right;
+ }
+ div{
+    display:block;
+    padding: 6rem;
+     background-color: rgb(240, 185, 84);
+     margin:20px 85px 40px 10px;
+     width:300px;
+     height:40px;
+     float:right;
+
+     
+}
+  p{
+  
+    font-size: 8px;
+    font-family: Geneva;
+    margin:0px 164px 0px 100px;
+    padding:0px 0px 0px 30px;
+   float:left;
+
+  }
+  footer
+{
+background-color: rgb(34, 32, 71);
+margin:180px 0px 90px 0px;
+padding:10px 0px 0px;
+height:100px;
+clear:both;
+
+}
+
+
+  img {
+    display : block;
+    margin:0px 150px 30px 0px;
+    padding:0px;
+    float: right;
+
+    
+  }
+
+
+  h1{
+    background-color:rgb(19, 18, 18);
+    margin-top: 0px; /*margin is the space inbetween the pic and the content. The outer border of the main picture.*/
+    padding: 120px 10px; /*creates a pixel border around the h1 heading, 120 across the screen and 10 above and below the heading*/
+    height: 70px;
+    text-align: center;
+    color: rgb(230, 233, 89);
+    font-size: 72px;
+    font-family:Arial Narrow;
+    
+  }
+  h2{
+    line-height: 1em;
+    color: #F2F7F7;
+    font-size: 30px;
+    font-family: Geneva;
+    padding: 0px 35px;
+  }
+  /*h3{
+   
+  }*/
+  
